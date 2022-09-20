@@ -3,6 +3,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 
+
 export default function Footer() {
     let year = new Date().getFullYear();
 
